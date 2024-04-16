@@ -1,5 +1,3 @@
-# Mandatory-Verses
-Metodología para Aprendizaje de Versiculos
 # Versículos Inspiradores
 
 ## **Salmo 119:130**
